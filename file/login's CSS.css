@@ -1,0 +1,29 @@
+body
+{
+    background: #999999
+}
+#enroll
+{
+    position: relative;
+    left:0%;
+    width: 300px;
+    background:#88c579;
+    text-align: center;
+}
+#field
+{
+    position: relative;
+    left:36%;
+    width: 300px;
+    border:5mm outset #88c579
+}
+#ok
+{
+    position: relative;
+    left:-10%
+}
+#notok
+{
+    position: relative;
+    left: 10%;
+}
